@@ -2,7 +2,7 @@
 
 ## GUI application connecting to Echo server over TCP
 
--Milestones          
+-Milestones :        
             
             -Qt Creator
               
