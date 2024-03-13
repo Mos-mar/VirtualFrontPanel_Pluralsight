@@ -1,6 +1,6 @@
-#VFP by Tod Gentille
+# VFP by Tod Gentille
 
-##GUI application connecting to Echo server over TCP
+## GUI application connecting to Echo server over TCP
 
 -Milestones          
             
