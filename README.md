@@ -1,4 +1,4 @@
-# VFP by Tod Gentille
+# Pluralsight VFP course by Tod Gentille
 
 ## GUI application connecting to Echo server over TCP
 
